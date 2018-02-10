@@ -1,0 +1,2 @@
+Time Complexity:
+ If we consider n = length(larger string), then this algorithm runs in O(n) complexity.
