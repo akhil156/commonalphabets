@@ -1,0 +1,2 @@
+# commonalphabets
+in lexicographical order
